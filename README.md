@@ -29,7 +29,7 @@ Python, Pygame
 
        $ cd DreamScape
 
-3. It is recommended you send up a virtual environment (but completely optional)
+3. It is recommended you set up a virtual environment (but completely optional)
        
        $ virtualenv env
        $ source env/bin/activate
